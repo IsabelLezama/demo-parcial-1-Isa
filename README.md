@@ -1,1 +1,4 @@
-# demo-parcial-1-Isa
+# parcial-1-Isa
+
+integrantes:
+-Isabel Gonzalez Lezama
