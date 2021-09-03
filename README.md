@@ -1,4 +1,5 @@
-# parcial-1-Isa
+# Proyecto parcial 1
 
-integrantes:
--Isabel Gonzalez Lezama
+Integrantes del equipo:
+
+-Isabel Gonzalez Lezama A01746586
